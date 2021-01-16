@@ -16,8 +16,8 @@ require (
 	github.com/hashicorp/go-multierror v1.1.0
 	github.com/onsi/ginkgo v1.14.2
 	github.com/onsi/gomega v1.10.4
-	github.com/opencontainers/runc v1.0.0-rc91
-	github.com/opencontainers/runtime-spec v1.0.3-0.20200710190001-3e4195d92445
+	github.com/opencontainers/runc v1.0.0-rc92
+	github.com/opencontainers/runtime-spec v1.0.3-0.20200728170252-4d89ac9fbff6
 	github.com/opencontainers/runtime-tools v0.9.0
 	github.com/opencontainers/selinux v1.8.0
 	github.com/pkg/errors v0.9.1
